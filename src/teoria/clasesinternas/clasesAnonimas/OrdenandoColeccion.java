@@ -1,4 +1,4 @@
-package teoria.clasesinternas.clasesanonimas;
+package teoria.clasesinternas.clasesAnonimas;
 
 import java.util.ArrayList;
 import java.util.Collections;
